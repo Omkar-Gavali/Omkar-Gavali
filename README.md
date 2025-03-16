@@ -16,7 +16,7 @@
 - 👨‍💻 My thesis: **Information Retrieval from Large Collections of Local Documents Using Large Language Models: RAG Approach**
 - 💬 Ask me about **Retrieval-Augmented Generation, LLMs, LlamaIndex, Langchain**
 - 🔍 Looking for **full-time opportunities in ML/AI research and development**
-- 📫 How to reach me: [LinkedIn](#) or [Email](#)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/omkar-gavali-9048551a6/) or [Email](omkargavali810@gmail.com)
 
 ## 🚀 Experience
 
