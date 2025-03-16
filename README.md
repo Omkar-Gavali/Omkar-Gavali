@@ -1,4 +1,4 @@
-# Hi there, I'm Omkar 👋
+#                                   Hi there, I'm Omkar 👋
 
 <h3 align="center">ML/AI Researcher specializing in Retrieval-Augmented Generation (RAG) & Large Language Models</h3>
 
@@ -138,10 +138,10 @@ Power BI
 <!-- Connect with me -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/omkar-gavali-9048551a6/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="mailto:your-email@example.com" target="_blank">
+  <a href="mailto:omkargavali810@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
 </p>
