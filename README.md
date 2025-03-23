@@ -1,6 +1,6 @@
-           ## Hi there, I'm Omkar 👋
-
-  
+</div>                     
+<h2 align="center"> Hi there, I'm Omkar 👋</h2>
+</div> 
 </div>                     
 <h3 align="center">ML/AI Researcher specializing in Retrieval-Augmented Generation (RAG) & Large Language Models</h3>
 </div>
