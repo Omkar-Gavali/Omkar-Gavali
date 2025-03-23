@@ -1,4 +1,4 @@
-           ## Hi there, I'm Omkar 👋</h1>
+           ## Hi there, I'm Omkar 👋
 
   
 </div>                     
