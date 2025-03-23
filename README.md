@@ -1,8 +1,5 @@
-<style>
-h1 {
-    text-align: center;
-}
-</style>
+<h1 style="text-align: center;">Welcome to my page</h1>
+
 
 ## Welcome to my page
 
