@@ -125,15 +125,7 @@ Power BI
   
 - **B.Sc. Physics** - Savitribai Phule Pune University (2016-2019)
 
-<>## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
-</p>
 
 <!-- Connect with me -->
 <h3 align="left">Connect with me:</h3>
