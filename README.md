@@ -1,8 +1,6 @@
-<h1 style="text-align: center;">Hi there, I'm Omkar 👋</h1>
-<div style="text-align: center;">
-<center>
-## Welcome to my page
-</center>
+           ## Hi there, I'm Omkar 👋</h1>
+
+  
 </div>                     
 <h3 align="center">ML/AI Researcher specializing in Retrieval-Augmented Generation (RAG) & Large Language Models</h3>
 </div>
