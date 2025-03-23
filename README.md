@@ -2,7 +2,7 @@
 <h2 align="center"> Hi there, I'm Omkar 👋</h2>
 </div> 
 </div>                     
-<h3 align="center">ML/AI Researcher specializing in Retrieval-Augmented Generation (RAG) & Large Language Models</h3>
+<h3 align="center">ML Researcher specializing in Retrieval-Augmented Generation (RAG) & Large Language Models</h3>
 </div>
 
 <!-- Typing SVG -->
@@ -21,31 +21,6 @@
 - 🔍 Looking for **full-time opportunities in ML/AI research and development**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/omkar-gavali-9048551a6/) or [Email](mailto:omkargavali810@gmail.com)
 
-## 🚀 Experience
-
-- **ML Research Assistant** at Fraunhofer FOKUS (04/2024 - 10/2024)
-  - Implemented RAG systems using open-source LLMs and LlamaIndex
-  - Deployed chatbots on company intranet for document search automation
-  
-- **Artificial Intelligence Researcher** at Brose Fahrzeugteile (09/2023 - 03/2024)
-  - Conducted a proof of concept with Azure Intelligent Document Processing
-  - Integrated Splunk's AI capabilities with AWS CloudWatch
-  - Researched emerging AI/ML technologies
-
-- **Data Analyst** at HPS Home Power Solutions AG (11/2022 - 04/2023)
-  - Designed Power BI dashboards for solar plant monitoring
-  - Automated reporting with Power Automate and Power Apps
-
-## 🛠️ Projects
-
-### RAG Chatbot using Langchain
-- Document processing with linguistic-based splitting and semantic search
-- Integration with user queries and context maintenance via chat history
-- Source citation and transparency
-
-### Auto ML on Germany's Pollution
-- PM10 air quality prediction using ML and AutoML
-- Data processing, feature engineering, model training and evaluation
 
 ## 💻 Skills
 
