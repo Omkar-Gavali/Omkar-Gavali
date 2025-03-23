@@ -1,5 +1,7 @@
 <h1 style="text-align: center;">Hi there, I'm Omkar 👋</h1>
-                      
+<div style="text-align: center;">
+# Welcome to my page
+</div>                     
 <h3 align="center">ML/AI Researcher specializing in Retrieval-Augmented Generation (RAG) & Large Language Models</h3>
 
 <!-- Typing SVG -->
