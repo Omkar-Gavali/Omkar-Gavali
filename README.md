@@ -3,6 +3,7 @@
 # Welcome to my page
 </div>                     
 <h3 align="center">ML/AI Researcher specializing in Retrieval-Augmented Generation (RAG) & Large Language Models</h3>
+</div>
 
 <!-- Typing SVG -->
 <p align="center">
