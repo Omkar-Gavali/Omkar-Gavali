@@ -2,7 +2,7 @@
 <h2 align="center"> Hi there, I'm Omkar 👋</h2>
 </div> 
 </div>                     
-<h3 align="center">ML Researcher specializing in Retrieval-Augmented Generation (RAG) & Large Language Models</h3>
+<h3 align="center">ML Researcher specializing in Retrieval Augmented Generation (RAG) & Large Language Models</h3>
 </div>
 
 <!-- Typing SVG -->
