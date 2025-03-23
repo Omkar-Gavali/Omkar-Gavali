@@ -96,14 +96,6 @@ Power BI
   </a>
 </p>
 
-## 📚 Education
-
-- **M.Sc. Professional IT Business and Digitalization** - Hochschule für Technik und Wirtschaft Berlin (2022-2024)
-  - Grade: 1.4 (Excellent)
-  
-- **B.Sc. Physics** - Savitribai Phule Pune University (2016-2019)
-
-
 
 <!-- Connect with me -->
 <h3 align="left">Connect with me:</h3>
@@ -118,6 +110,4 @@ Power BI
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+
