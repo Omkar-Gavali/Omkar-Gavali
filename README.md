@@ -18,11 +18,12 @@
 
 
 <!-- About Me -->
-- 🔭 I'm currently working on **image processing**
+- 🔭 I'm currently working on **historical image processing**
 - 🌱 I'm actively learning **advanced image retrieval techniques**
 - 👨‍💻 My thesis: **Information Retrieval from Large Collections of Local Documents Using Large Language Models: RAG Approach**
 - 💬 Ask me about **Machine learning, RetrievalAugmented Generation, LLMs, LlamaIndex, Langchain**
-- 🔍 Exploring **Phd topics realted to image retrieval**
+- 🔍 Exploring **Phd topics related to image retrieval**
+- I'm available for a chat about machine learning/AI.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/omkar-gavali-9048551a6/) or [Email](mailto:omkargavali810@gmail.com)
 
 
