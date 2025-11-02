@@ -2,7 +2,7 @@
 <h2 align="center"> Hi there, I'm Omkar 👋</h2>
 </div> 
 </div>                     
-<h3 align="center">ML Researcher specializing in Retrieval Augmented Generation (RAG) & Large Language Models</h3>
+<h3 align="center">ML Researcher specializing in Multimodal Information Retrieval </h3>
 </div>
 
 <!-- Typing SVG -->
@@ -18,11 +18,11 @@
 
 
 <!-- About Me -->
-- 🔭 I'm currently working on **Image processing, RAG systems and LLM implementations**
-- 🌱 I'm actively learning **advanced LLM techniques and cloud AI infrastructures**
+- 🔭 I'm currently working on **image processing**
+- 🌱 I'm actively learning **advanced image retrieval techniques**
 - 👨‍💻 My thesis: **Information Retrieval from Large Collections of Local Documents Using Large Language Models: RAG Approach**
 - 💬 Ask me about **Machine learning, RetrievalAugmented Generation, LLMs, LlamaIndex, Langchain**
-- 🔍 Looking for **Full time opportunities in ML/AI research and development**
+- 🔍 Exploring **Phd topics realted to image retrieval**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/omkar-gavali-9048551a6/) or [Email](mailto:omkargavali810@gmail.com)
 
 
