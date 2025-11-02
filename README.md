@@ -11,7 +11,8 @@
 </p>
 
 <!-- Gif -->
-<img align="right" alt="Coding Animation" width="400" src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif">
+<img align="right" alt="AI Animation" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzF2dGg0bGwxdjdlc3A2cG53dmIyMmRhc3l6bHVyNW44MzNhb2FvZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
+
 
 
 
