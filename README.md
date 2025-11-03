@@ -7,7 +7,7 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=600&lines= ML+Researcher+%7C+Image+Processing+%7C+Software+Developer;Always+learning+new+technologies!">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&size=25¢er=true&vCenter=true&width=600&lines=%20ML+Researcher+%7C+Image+Processing+%7C+Software+Developer;Always+learning+new+technologies!">
 </p>
 
 <!-- Gif -->
